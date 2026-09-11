@@ -54,6 +54,10 @@ El dashboard se organiza en 7 solapas, guiando al usuario desde una visión glob
 - Integrar variables sociodemográficas (nivel socioeconómico, comorbilidades)
 - Desarrollar indicadores avanzados de desempeño (complicaciones postoperatorias, tiempo en lista de espera, supervivencia anual)
 
+- ## Archivo del proyecto
+
+El archivo `.pbix` con el dashboard interactivo completo está disponible en este repositorio — ábrelo con Power BI Desktop (gratuito) para explorar todas las visualizaciones y filtros de forma interactiva.
+
 ## 🔗 Ver el proyecto completo
 
 El caso de estudio completo, con capturas del dashboard interactivo, está disponible en mi portafolio:
